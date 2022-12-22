@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+gem "jekyll-theme-mrwooo-solid-state"
+
 source "https://rubygems.org"
 gemspec
 
